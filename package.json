@@ -1,0 +1,10 @@
+{
+  "name": "patients-ui",
+  "description": "A frontend for the patients API",
+  "dependencies": {
+    "bootstrap": "^3.2.0",
+    "jquery": "^2.1.1",
+    "react": "^0.12.1",
+    "underscore": "^1.7.0"
+  }
+}
